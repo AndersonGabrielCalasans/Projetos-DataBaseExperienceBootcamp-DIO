@@ -22,4 +22,4 @@ Nesse repositório você encontrará:
 
 ## Material de consulta:
 
- - **[MySQL 8.0 Reference Manual]**(https://dev.mysql.com/doc/refman/8.0/en/)
+ - [MySQL 8.0 Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/)
