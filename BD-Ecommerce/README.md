@@ -44,6 +44,6 @@ Além das informações que foram solicitadas pelo cliente, chegamos aos seguint
 
 A partir dai foi realizado o estudo do case, onde eu analizei todos os dados fornecidos e cheguei a primeira versão do esquema de alto nível, o primeiro **modelo de dados conceitual**.
 
-Você consegue acessar esse modelo em dois formatos, um em .pdf, para facilitar a visualização, que você tem acesso [clicando aqui] **colocar link do arquivo**  e outro em formato .mwb, que você acessa [clicando aqui] **colocar link do arquivo**, ambos foram gerados na SGBD MySQL.
+Você consegue acessar esse modelo em dois formatos, um em .pdf, para facilitar a visualização, que você tem acesso [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/ecommerce_diagrama.pdf) e outro em formato .mwb, que você pode fazer o download [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/ecommerce_diagrama.mwb), ambos foram gerados com o MySQL Workbench 8.0 CE.
 
 Posteriormente estarei realizando a implementação do banco de dados em lógica de programação em SQL e testando o mesmo para realizar ajustes e correções caso seja necessário.
