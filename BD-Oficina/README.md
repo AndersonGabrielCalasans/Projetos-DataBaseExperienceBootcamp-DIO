@@ -58,8 +58,8 @@ Durante a modelagem foi pensado nas seguintes informações que decidi como send
 
 Com isso cheguei em um escopo de projeto, utilizando a ferramenta **MySQL Workbench 8.0 CE** para tal, e o resultado encontra-se nos arquivos abaixo:
 
- - **[Arquivo em pdf]**(https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Oficina/Diagrama-Oficina-Mecanica.pdf) para visualização do Diagrama entidade relacionamento estendido, sem precisar baixar o modelo.
+ - [Arquivo em pdf](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Oficina/Diagrama-Oficina-Mecanica.pdf) para visualização do Diagrama entidade relacionamento estendido, sem precisar baixar o modelo;
 
- - **[Diagrama versão para download]**(https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Oficina/Diagrama-Oficina-Mecanica.mwb)
+ - [Diagrama versão para download aqui.](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Oficina/Diagrama-Oficina-Mecanica.mwb)
 
 Posteriormente estarei realizando a implementação do banco de dados em lógica de programação em SQL e testando o mesmo para realizar ajustes e correções caso seja necessário.
