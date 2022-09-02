@@ -16,6 +16,10 @@ Nesse repositório você encontrará:
  - ### Projeto de um banco de dados relacional para um E-commerce:
     - [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/README.md) você encontra o arquivo README.md referente ao mesmo contendo suas informações.
 
+ - ### Projeto de um banco de dados relacional para uma Oficina Mecânica:
+    - [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Oficina/README.md) você encontra o arquivo README.md referente ao mesmo contendo suas informações.
+
+
 ## Material de consulta:
 
  - **[MySQL 8.0 Reference Manual]**(https://dev.mysql.com/doc/refman/8.0/en/)
