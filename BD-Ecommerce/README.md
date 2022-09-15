@@ -56,7 +56,7 @@ O resultado do código que escrevi para persistir o banco de dados proposto voc�
 
 A fim de testar se o banco de dados encontra-se funcional e útil, persisti alguns dados fictícios e realizei algumas queries para testá-lo.
 
-O arquivo onde pode ser encontrado os dados persistidos é [esse aqui](), já o arquivo que encontram-se as queries [está aqui]().
+O arquivo onde pode ser encontrado os dados persistidos é [esse aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/scriptSQL-BD-Ecommerce.sql), já o arquivo que encontram-se as queries [está aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/data_insertion_ecommerce.sql).
 
 A partir dos dados persistidos, realizamos queries para atender aos requisitos impostos no desafio, como forma de aprendizado a fazer consultas à bancos de dados com o MySQL. As queries tem que apresentar:
 
