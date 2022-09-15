@@ -46,7 +46,7 @@ A partir dai foi realizado o estudo do case, onde eu analizei todos os dados for
 
 Você consegue acessar esse modelo em dois formatos, um em .pdf, para facilitar a visualização, que você tem acesso [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/ecommerce_diagrama.pdf) e outro em formato .mwb, que você pode fazer o download [clicando aqui](https://github.com/AndersonGabrielCalasans/Projetos-DataBaseExperienceBootcamp-DIO/blob/main/BD-Ecommerce/ecommerce_diagrama.mwb), ambos foram gerados com o MySQL Workbench 8.0 CE.
 
-## Modelo relacional:
+## Modelo lógico:
 
 Na segunda etapa do projeto, criei a lógica das tabelas em linguagem SQL, seguindo o modelo relacional já estabelecido atribuindo alguns ajustes conforme achei necessário. A maior parte dos ajustes realizados foi na questão de tratamento da variável, na maiooria das vezes, trocando o tipo de informação que a varável irá receber, no mais, a principio o modelo de banco de dados criado atende ao objetivo imposto.
 
@@ -67,4 +67,3 @@ A partir dos dados persistidos, realizamos queries para atender aos requisitos i
  - Condições de filtros aos grupos – HAVING Statement
  - Crie junções entre tabelas para fornecer uma perspectiva mais complexa dos dados
 
- 
